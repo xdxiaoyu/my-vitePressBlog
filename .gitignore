@@ -1,5 +1,6 @@
 # 依赖
 node_modules/
+.pnpm-store/
 
 # VitePress 构建产物和缓存
 docs/.vitepress/dist/
