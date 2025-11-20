@@ -10,37 +10,37 @@ hero:
     alt: 学习记录
   actions:
     - theme: brand
-      text: 语言学习 📚
+      text: 语言工具学习 📚
       link: /Language/
     - theme: alt
-      text: 工具学习 🛠️
-      link: /Tool/
+      text: 日常问题记录 🛠️
+      link: 
 
 features:
   - icon: 📝
     title: JavaScript
     details: JavaScript、ES6、ES7-10 等语言特性学习
-    link: /Language/JavaScript/JavaScript/
+    link: /Language/JavaScript/
   - icon: 🚀
     title: Node.js
     details: Node 基础、MongoDB、爬虫开发
-    link: /Language/Node/Node/
+    link: /Language/Node/
   - icon: 💚
     title: Vue 生态
-    details: Vue 基础、MVVM 原理、Vuex 状态管理
-    link: /Tool/Vue/Vue_base/
+    details: Vue特性、MVVM 原理、Vuex 状态管理
+    link: /Tool/Vue/
+  - icon: ⚛️
+    title: React 生态
+    details: React 基础、Hooks、原理、Router、Redux 状态管理
+    link: /Tool/React/
   - icon: 📦
     title: 构建工具
     details: Webpack 打包工具配置与优化
     link: /Tool/Webpack/
-  - icon: 🌐
-    title: HTTP 工具
-    details: Axios 请求库的使用
-    link: /Tool/Axios/
   - icon: 🔧
-    title: 开发工具
-    details: Git 版本控制、SSO 单点登录
-    link: /Tool/Git/
+    title: 其他工具
+    details: Git版本控制、Axios请求库、SSO免登录
+    link: /Tool/Other/
 ---
 
 <style>

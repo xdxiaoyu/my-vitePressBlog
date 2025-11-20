@@ -1,6 +1,6 @@
-# Vue必会基础
+# Vue2必会基础
 
-Vue中的数据和DOM已经被关联起来，所有的东西都是响应式的。注意我们不再和HTML直接交互。一个Vue应用会将其挂载到DOM元素上然后对齐进行完全的控制，那个HTML是我们的入口，但是其他的都会发生在新创建的Vue实例内部。详情可见[MVVM原理极其实现](https://github.com/dingxingxing/Storage-of-record-documents/tree/master/Vue)。
+Vue2中的数据和DOM已经被关联起来，所有的东西都是响应式的。注意我们不再和HTML直接交互。一个Vue应用会将其挂载到DOM元素上然后对齐进行完全的控制，那个HTML是我们的入口，但是其他的都会发生在新创建的Vue实例内部。详情可见[MVVM原理极其实现](https://github.com/dingxingxing/Storage-of-record-documents/tree/master/Vue)。
 
 
 
